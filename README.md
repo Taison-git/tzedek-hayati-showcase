@@ -31,8 +31,8 @@ HTML · CSS · JavaScript · React · PostgreSQL · PL/pgSQL · Supabase (Auth, 
 
 ## צילומי מסך
 | | |
-|---|---|
-| ![קטלוג](02-shop.png) | ![סרגל משתמש](03-screenshots.png) |
+|---|---
+| ![קטלוג](02-shop.png) | ![סרגל משתמש](03-screenshot.png) |
 | ![עגלה](04-cart.png)  | ![דף הבית – המשך](06-down_home.png) |
 | ![פורטל מנהל](05-admin.png) |
 
